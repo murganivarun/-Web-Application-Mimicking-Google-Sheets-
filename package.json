@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "web-vitals": "^4.2.4"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
